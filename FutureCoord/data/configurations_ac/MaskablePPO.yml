@@ -1,0 +1,5 @@
+name: MaskablePPO
+policy:
+  policy: MlpPolicy
+train:
+  total_timesteps: 500000

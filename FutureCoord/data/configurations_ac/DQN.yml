@@ -1,0 +1,6 @@
+name: DQN
+policy:
+  policy: MlpPolicy
+
+train:
+  total_timesteps: 100000

@@ -1,0 +1,7 @@
+,vnf,coff,ccoef_1,ccoef_2,ccoef_3,ccoef_4,moff,mcoef_1,mcoef_2,mcoef_3,mcoef_4,max. req_transf_rate,scale,
+0,nginx (small),5,0.1,0,0,0,64,0,0,0,0,400,1,
+1,nginx (big),10,0.2,0,0,0,128,0,0,0,0,400,1,
+2,haproxy (small),5,0.1,0,0,0,64,0,0,0,0,400,1,
+3,haproxy (big),10,0.2,0,0,0,128,0,0,0,0,400,1,
+4,squid (small),5,0.1,0,0,0,64,0,0,0,0,400,1,
+5,squid (big),10,0.2,0,0,0,128,0,0,0,0,400,1,

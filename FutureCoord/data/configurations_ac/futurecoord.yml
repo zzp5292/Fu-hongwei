@@ -1,0 +1,12 @@
+name: FutureCoord
+policy:
+  C: 1.41421
+  sim_discount: 1.0
+  max_requests: 5
+
+rollout:
+  name: Random
+  policy:  {}
+    
+train:  {}
+
